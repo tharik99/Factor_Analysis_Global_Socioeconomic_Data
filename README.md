@@ -1,2 +1,2 @@
 # Factor_Analysis_Global_Socioeconomic_Data
-Exploratory and confirmatory factor analysis of global socioeconomic data using R.
+This project applies factor analysis to identify underlying latent factors that explain variation in global socioeconomic indicators across countries. The analysis was conducted using R and includes both Exploratory Factor Analysis (EFA) and Confirmatory Factor Analysis (CFA). The objective is to reduce dimensionality and interpret complex relationships among socioeconomic variables.
